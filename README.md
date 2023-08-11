@@ -40,7 +40,7 @@ python main.py
 ```
 <p> - <b> Step 4: </b> Download the brazilian dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 <p> - <b> Step 5: </b> Replace all the contents of the `data` folder with the brazilian data
-<p> - <b> Step 6: </b> Open the `main.py` file and replace the seprator from `;` to `,` in line `13` as such `sep = ","` 
+<p> - <b> Step 6: </b> Open the ` main.py ` file and replace the seprator from `;` to `,` in line `13` as such `sep = ","` 
 <p> - <b> Step 7: </b> lets get hacking!
 
 
